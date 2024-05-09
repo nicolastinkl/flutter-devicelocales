@@ -1,6 +1,6 @@
 name: flutter_devicelocale
 description: A Flutter package that can be used to extract the locales that are currently defined on a device with the current locale set as the first in the list.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/nicolastinkl/flutter-devicelocale
 
 environment:
